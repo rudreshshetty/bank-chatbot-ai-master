@@ -1,0 +1,5 @@
+streamlit
+ollama
+fastapi
+uvicorn
+sqlite3
